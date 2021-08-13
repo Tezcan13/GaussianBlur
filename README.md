@@ -5,15 +5,11 @@
 </div>
 
 <div align= "center">
-  <h3>Before blur
-
-![BillGates](https://user-images.githubusercontent.com/80816072/129332562-34051f21-830b-47b1-83c2-384ffac2a45d.jpg width="200" height="200")
- </h3>
+  <h3>Before blur </h3>
+![BillGates](https://user-images.githubusercontent.com/80816072/129332562-34051f21-830b-47b1-83c2-384ffac2a45d.jpg)
 </div>
 
 <div align= "center">
-  <h3>After blur 
+  <h3>After blur </h3>
 ![blurred](https://user-images.githubusercontent.com/80816072/129332713-231e7a84-569d-46ab-9c5b-52b899220284.jpg)
-
-</h3>
 </div>
