@@ -7,7 +7,7 @@
 <div align= "center">
   <h3>Before blur
 
-![BillGates](https://user-images.githubusercontent.com/80816072/129332562-34051f21-830b-47b1-83c2-384ffac2a45d.jpg)
+![BillGates](https://user-images.githubusercontent.com/80816072/129332562-34051f21-830b-47b1-83c2-384ffac2a45d.jpg width="200" height="200")
  </h3>
 </div>
 
